@@ -1,4 +1,4 @@
-## Mac Min Problem
+## Max-Min Problem
 
 -----------------------------------------
 ### Problem Definition:

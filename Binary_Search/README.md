@@ -16,7 +16,7 @@ Strategy: Divide and Conquer
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(log(n))** 
+* Time Complexity: **O(log n)** 
 * Space Complexity: **O(1)** 
 
 where n = size of the input array

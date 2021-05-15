@@ -1,10 +1,10 @@
-## Bellman Ford Algorithm
+## 0-1 Knapsack Problem
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to compute shortest paths from a single source vertex to all of the other vertices in a weighted digraph using Bellman Ford Algorithm. 
+Given a set of items, each with a weight and a value, determine a subset of items to include in a knapsack so that the total weight is less than or equal to a given limit and the total value is as large as possible. You cannot break an item, either pick the complete item or don’t pick it (0-1 property).
 
-Strategy: Greedy
+Strategy: Dynamic Programming
 
 ------------------------------------------
 ### Output:
@@ -16,7 +16,8 @@ Strategy: Greedy
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(VE)** 
-* Space Complexity: **O(VE)** 
+* Time Complexity: **O(n * W)** 
+    
+* Space Complexity: **O(n * W)** 
 
-where V = number of vertices and E = number of edges
+where n = number of items and W = capacity of the knapsack

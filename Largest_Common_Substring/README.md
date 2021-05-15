@@ -1,10 +1,10 @@
-## Binary Search
+## Longest Common Subsequence
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Write a program to compute longest common subsequence for the given two strings.
 
-Strategy: Divide and Conquer
+Strategy: Dynamic Programming
 
 ------------------------------------------
 ### Output:
@@ -16,7 +16,7 @@ Strategy: Divide and Conquer
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(log n)** 
-* Space Complexity: **O(1)** 
+* Time Complexity: **O(m * n)** 
+* Space Complexity: **O(m * n)** 
 
-where n = size of the input array
+where m = length of first string and n = length of second string

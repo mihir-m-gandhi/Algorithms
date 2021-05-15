@@ -10,7 +10,7 @@ Strategy: Greedy
 ### Output:
 
 <p align="center">
-    <img src="./output.png">
+    <img src="./output.jpg">
 </p>
 
 ------------------------------------------

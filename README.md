@@ -24,7 +24,7 @@
 * [Quick_Sort](./Quick_Sort)
 * [Selection_Sort](./Selection_Sort)
 * [Sum_of_Subsets](./Sum_of_Subsets)
-* 
+
 ------------------------------------------
 ### Author
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)

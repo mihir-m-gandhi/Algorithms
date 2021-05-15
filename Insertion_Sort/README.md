@@ -1,8 +1,8 @@
-## Binary Search
+## Insertion Sort
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Write a program to implement Insertion Sort given an array of integers. 
 
 Strategy: Divide and Conquer
 

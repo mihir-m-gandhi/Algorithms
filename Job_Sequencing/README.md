@@ -16,7 +16,8 @@ Strategy: Greedy
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(n^2)** (This is because Insertion sort was used. Time complexity can be brought down to O(n * log n) by using Merge Sort) 
+* Time Complexity: **O(n^2)** 
+  (This is because Insertion sort was used. Time complexity can be brought down to O(n * log n) by using Merge Sort) 
 * Space Complexity: **O(n)** 
 
 where n = total number of jobs

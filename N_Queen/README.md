@@ -11,12 +11,12 @@ Strategy: Backtracking
 ------------------------------------------
 ### Output:
 
-* n = 4
+* N = 4
 <p align="center">
     <img src="./output-1.jpg">
 </p>
 
-* n = 8
+* N = 8
 <p align="center">
     <img src="./output-2.jpg">
 </p>
@@ -24,7 +24,7 @@ Strategy: Backtracking
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(n!)** 
-* Space Complexity: **O(n^2)** 
+* Time Complexity: **O(N!)** 
+* Space Complexity: **O(N^2)** 
 
-where n = number of queens to be placed on the board
+where N = number of queens to be placed on the board

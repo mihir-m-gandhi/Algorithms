@@ -16,7 +16,7 @@ Strategy: Greedy
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(VE)** 
-* Space Complexity: **O(VE)** 
+* Time Complexity: **O(V * E)** 
+* Space Complexity: **O(V * E)** 
 
 where V = number of vertices and E = number of edges

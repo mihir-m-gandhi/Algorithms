@@ -11,16 +11,16 @@
 ------------------------------------------
 ## Contents
 
+* [0-1_Knapsack_Problem](./0-1_Knapsack_Problem)
 * [Bellman_Ford_Algorithm](./Bellman_Ford_Algorithm)
 * [Binary_Search](./Binary_Search)
+* [Fractional_Knapsack_Problem](./Fractional_Knapsack_Problem)
 * [Insertion_Sort](./Insertion_Sort)
 * [Job_Sequencing](./Job_Sequencing)
-* [Knapsack_Problem_Dynamic_Programming](./Knapsack_Problem_Dynamic_Programming)
-* [Knapsack_Problem_Greedy_Algorithm](./Knapsack_Problem_Greedy_Algorithm)
-* [Largest_Common_Substring](./Largest_Common_Substring)
+* [Largest_Common_Subsequence](./Largest_Common_Subsequence)
 * [Max-Min_Problem](./Max-Min_Problem)
 * [Merge_Sort](./Merge_Sort)
-* [N_Queens](./N_Queens)
+* [N_Queen](./N_Queen)
 * [Quick_Sort](./Quick_Sort)
 * [Selection_Sort](./Selection_Sort)
 * [Sum_of_Subsets](./Sum_of_Subsets)

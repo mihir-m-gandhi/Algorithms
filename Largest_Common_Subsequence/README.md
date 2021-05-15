@@ -4,7 +4,7 @@
 ### Problem Definition:
 Write a program to compute longest common subsequence for the given two strings.
 
-A subsequence is a sequence that appears in the same relative order, but not necessarily contiguous. For example, “abc”, “abg”, “bdf”, “aeg”, ‘”acefg”, .. etc are subsequences of “abcdefg”.
+A subsequence is a sequence that appears in the same relative order, but not necessarily contiguous. For example, “abc”, “abg”, “bdf”, “aeg”, and ”acefg” are all subsequences of “abcdefg”.
 
 Strategy: Dynamic Programming
 

@@ -17,6 +17,6 @@ Strategy: Backtracking
 ### Complexity Analysis:
 
 * Time Complexity: **O(2^n)** 
-* Space Complexity: **O(1)** 
+* Space Complexity: **O(n)** 
 
 where n = size of the input array

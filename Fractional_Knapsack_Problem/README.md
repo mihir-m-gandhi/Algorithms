@@ -1,8 +1,8 @@
-## Bellman Ford Algorithm
+## Fractional Knapsack Problem
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to compute shortest paths from a single source vertex to all of the other vertices in a weighted digraph using Bellman Ford Algorithm. 
+Given a set of items, each with a weight and a value, determine a subset of items to include in a collection so that the total weight is less than or equal to a given limit and the total value is as large as possible. Items can be broken into smaller pieces, and thus, a fraction of an item can also be included. 
 
 Strategy: Greedy
 
@@ -16,7 +16,10 @@ Strategy: Greedy
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(VE)** 
-* Space Complexity: **O(VE)** 
+* Time Complexity: **O(n^2)** 
+  
+  (This is because Insertion sort was used. Time complexity can be brought down to O(n * log n) by using Merge Sort and p/w ratio.) 
+  
+* Space Complexity: **O(n)** 
 
-where V = number of vertices and E = number of edges
+where n = total number of jobs

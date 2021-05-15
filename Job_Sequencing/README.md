@@ -1,10 +1,10 @@
-## Binary Search
+## Job Sequencing Problem
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Given an array of jobs where every job has a deadline and associated profit if the job is finished before the deadline. It is also given that every job takes a single unit of time, so the minimum possible deadline for any job is 1. Write a program to maximize total profit if only one job can be scheduled at a time.
 
-Strategy: Divide and Conquer
+Strategy: Greedy
 
 ------------------------------------------
 ### Output:
@@ -16,7 +16,7 @@ Strategy: Divide and Conquer
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(log n)** 
-* Space Complexity: **O(1)** 
+* Time Complexity: **O(n^2)** 
+* Space Complexity: **O(n)** 
 
-where n = size of the input array
+where n = total number of jobs

@@ -1,10 +1,10 @@
-## Bellman Ford Algorithm
+## Binary Search
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to compute shortest paths from a single source vertex to all of the other vertices in a weighted digraph using Bellman Ford Algorithm. 
+Write a program to implement Binary Search on a sorted array of numbers.
 
-Strategy: Greedy
+Strategy: Divide and Conquer
 
 ------------------------------------------
 ### Output:
@@ -16,7 +16,7 @@ Strategy: Greedy
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(VE)** 
-* Space Complexity: **O(VE)** 
+* Time Complexity: **O(log n)** 
+* Space Complexity: **O(1)** 
 
-where V = number of vertices and E = number of edges
+where n = size of the input array

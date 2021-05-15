@@ -18,7 +18,7 @@ Strategy: Greedy
 
 * Time Complexity: **O(n^2)** 
   
-  (This is because Insertion sort was used. Time complexity can be brought down to O(n * log n) by using Merge Sort) 
+  (This is because Insertion sort was used. Time complexity can be brought down to O(n * log n) by using Merge Sort and p/w ratio.) 
   
 * Space Complexity: **O(n)** 
 

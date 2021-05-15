@@ -2,9 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to solve the N Queen Problem. 
-
-The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other.
+Write a program to solve the N Queen Problem - Given N chess queens, find all possible ways to place them on an N×N chessboard so that no two queens attack each other.
 
 Strategy: Backtracking
 

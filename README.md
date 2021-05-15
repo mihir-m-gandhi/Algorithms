@@ -6,6 +6,9 @@
 
 <div align="center">
 <h4> This repository contains programs written as part of 'Analysis of Algorithms' Lab during my Bachelor's at K.J. Somaiya College of Engineering, Mumbai.</h4>
+ 
+<p> Strategies used include Divide and Conquer, Greedy Approach, Dynamic Programming, and Backtracking. <p>
+ 
 </div>
 
 ------------------------------------------

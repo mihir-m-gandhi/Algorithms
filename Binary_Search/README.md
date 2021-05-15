@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Write a program to implement Binary Search on a sorted array of integers.
 
 Strategy: Divide and Conquer
 

@@ -4,7 +4,7 @@
 ### Problem Definition:
 Write a program to compute shortest paths from a single source vertex to all of the other vertices in a weighted digraph using Bellman Ford Algorithm. 
 
-Strategy: *Greedy*
+*Strategy: Greedy*
 
 ------------------------------------------
 ### Output:

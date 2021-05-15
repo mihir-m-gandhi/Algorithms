@@ -23,4 +23,3 @@ Strategy: Greedy
 * Space Complexity: **O(n)** 
 
 where n = total number of jobs
-

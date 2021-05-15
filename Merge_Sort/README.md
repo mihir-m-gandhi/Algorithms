@@ -4,6 +4,8 @@
 ### Problem Definition:
 Write a program to implement Merge Sort on an array of integers.
 
+Strategy: Divide and Conquer
+
 ------------------------------------------
 ### Output:
 

@@ -1,10 +1,10 @@
-## Binary Search
+## Sum of Subsets Problem
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Write a program to implement find the subsets of a given array of integers such that the sum of all elements in the subset is equal to a given integer.
 
-Strategy: Divide and Conquer
+Strategy: Backtracking
 
 ------------------------------------------
 ### Output:
@@ -16,7 +16,7 @@ Strategy: Divide and Conquer
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(log n)** 
+* Time Complexity: **O(2^n)** 
 * Space Complexity: **O(1)** 
 
 where n = size of the input array

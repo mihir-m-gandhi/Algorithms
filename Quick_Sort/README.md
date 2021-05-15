@@ -1,8 +1,8 @@
-## Binary Search
+## Quick Sort
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Write a program to implement Quick Sort on an array of integers.
 
 Strategy: Divide and Conquer
 
@@ -10,13 +10,13 @@ Strategy: Divide and Conquer
 ### Output:
 
 <p align="center">
-    <img src="./output.jpg">
+    <img src="./output.png">
 </p>
 
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(log n)** 
+* Time Complexity: **O(n^2)** 
 * Space Complexity: **O(1)** 
 
 where n = size of the input array

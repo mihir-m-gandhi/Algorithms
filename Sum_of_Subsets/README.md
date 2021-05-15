@@ -2,7 +2,7 @@
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement find the subsets of a given array of integers such that the sum of all elements in the subset is equal to a given integer.
+Write a program to find the subsets of a given array of integers such that the sum of all elements in the subset is equal to a given integer.
 
 Strategy: Backtracking
 

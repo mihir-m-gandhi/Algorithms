@@ -1,4 +1,4 @@
-** Bellman Ford Algorithm
+## Bellman Ford Algorithm
 
 -----------------------------------------
 ### Problem Definition:

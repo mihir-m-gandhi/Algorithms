@@ -1,8 +1,8 @@
-## Binary Search
+## Max-Min Problem
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Write a program to find the maxium and minimum element in an array of integers.
 
 Strategy: Divide and Conquer
 
@@ -16,7 +16,7 @@ Strategy: Divide and Conquer
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(log n)** 
-* Space Complexity: **O(1)** 
+* Time Complexity: **O(n)** 
+* Space Complexity: **O(n)** 
 
 where n = size of the input array

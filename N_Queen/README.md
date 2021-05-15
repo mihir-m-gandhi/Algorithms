@@ -1,22 +1,30 @@
-## Binary Search
+## N Queen Problem
 
 -----------------------------------------
 ### Problem Definition:
-Write a program to implement Binary Search on a sorted array of numbers.
+Write a program to solve the N Queen Problem. 
 
-Strategy: Divide and Conquer
+The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other.
+
+Strategy: Backtracking
 
 ------------------------------------------
 ### Output:
 
+* n = 4
 <p align="center">
-    <img src="./output.jpg">
+    <img src="./output-1.jpg">
+</p>
+
+* n = 8
+<p align="center">
+    <img src="./output-2.jpg">
 </p>
 
 ------------------------------------------
 ### Complexity Analysis:
 
-* Time Complexity: **O(log n)** 
-* Space Complexity: **O(1)** 
+* Time Complexity: **O(n!)** 
+* Space Complexity: **O(n^2)** 
 
-where n = size of the input array
+where n = number of queens to be placed on the board
